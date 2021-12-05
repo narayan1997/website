@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Hello I takeover this sub-domain.
 
 You can use the [editor on GitHub](https://github.com/narayan1997/website/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,8 +11,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
+# Hello I am Aakash Jamadar 
+## I takeover this subdomain.
 ### Header 3
 
 - Bulleted
